@@ -1,7 +1,12 @@
 h1 {
   color: blue;
+  text-align: center;
 }
 
 h2 {
   color: orange;
 }
+img{
+align-items: center;
+  width: 100px;
+  height: auto;}
